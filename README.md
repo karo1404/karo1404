@@ -1,4 +1,4 @@
-## Hi there 👋
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=karo1404&theme=tokyonight" alt="mystreak"/>
 
 <!--
 **karo1404/karo1404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
